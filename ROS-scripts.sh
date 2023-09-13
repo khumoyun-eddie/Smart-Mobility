@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # Run this command on every new shell you open to have access to the ROS 2 commands
 source /opt/ros/humble/setup.bash
 
