@@ -1,3 +1,11 @@
 # Week 4 Lab materials: CLI tools
-![alt text](https://github.com/khumoyun-eddie/Smart-Mobility/blob/main/week-4-1.png?raw=true)
-
+![week-4-1](https://github.com/khumoyun-eddie/Smart-Mobility/assets/78129699/724f0e1d-0b7c-4553-8261-eaa204877b29)
+![Screenshot from 2023-09-19 11-02-18](https://github.com/khumoyun-eddie/Smart-Mobility/assets/78129699/97b0859f-616a-43da-872a-769f9c4234ab)
+![Screenshot from 2023-09-19 11-06-39](https://github.com/khumoyun-eddie/Smart-Mobility/assets/78129699/b6414c67-8ef7-420e-86ad-8847f1a4cfcd)
+![Screenshot from 2023-09-19 11-33-41](https://github.com/khumoyun-eddie/Smart-Mobility/assets/78129699/6d910813-4cd3-42fc-951d-0f3d846b24ce)
+![Screenshot from 2023-09-19 11-36-38](https://github.com/khumoyun-eddie/Smart-Mobility/assets/78129699/ff007469-8956-40e7-af47-67f8f734c058)
+![Screenshot from 2023-09-20 10-49-22](https://github.com/khumoyun-eddie/Smart-Mobility/assets/78129699/396bcb8c-384a-4bba-8853-5f1b120da203)
+![Screenshot from 2023-09-20 10-58-48](https://github.com/khumoyun-eddie/Smart-Mobility/assets/78129699/b3f6cf4d-1e0e-420e-9918-f1f727424a2e)
+![Screenshot from 2023-09-20 11-10-51](https://github.com/khumoyun-eddie/Smart-Mobility/assets/78129699/51c8ea29-7985-44a4-9150-4ef496ecfd3f)
+![Screenshot from 2023-09-20 11-14-37](https://github.com/khumoyun-eddie/Smart-Mobility/assets/78129699/54f82f92-c006-4ea8-9e45-b987d783ad64)
+![Screenshot from 2023-09-24 18-22-12](https://github.com/khumoyun-eddie/Smart-Mobility/assets/78129699/b481c482-faae-404c-bf9b-2e6b4772257b)
