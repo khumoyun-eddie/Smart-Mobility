@@ -1,0 +1,6 @@
+# FleetManagement.action
+int32 fleet_size
+---
+string[] vehicle_routes
+---
+float32 completion_percentage
